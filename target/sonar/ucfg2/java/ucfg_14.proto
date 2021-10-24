@@ -1,0 +1,30 @@
+
+vdata.entidades.Estudiante#subscribeStock(Ldata/entidades/Libro;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;Å
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java ( "1*‡
+1Å
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java (˝˙
+Ç
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.javas (Å
+%0java.lang.String"0data.entidades.Libro#getName()Ljava/lang/String;*
+
+bookdata.entidades.Libro2	getName()¥
+±
+Ç
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java (ê
+%1java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*VT
+REl estudiante sera notificado cuando %s este disponible por email %s y telefono %s*
+
+%0java.lang.String*
+
+emailjava.lang.String*
+
+phonejava.lang.String"ü
+Ç
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java (ë
+
+%1java.lang.String:
+bookdata.entidades.Libro:
+emailjava.lang.String:
+phonejava.lang.StringB
+data.entidades.Estudiante

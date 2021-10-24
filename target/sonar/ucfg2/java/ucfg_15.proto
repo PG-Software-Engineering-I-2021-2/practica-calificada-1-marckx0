@@ -1,0 +1,25 @@
+
+Sdata.entidades.Estudiante#subscribeOffer(Ldata/entidades/Oferta;)Ljava/lang/String;Å
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java   ( "1*ï
+1Å
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java! !(Å˛
+Å
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java!` !(p
+%0java.lang.String"2data.entidades.Oferta#getTopic()Ljava/lang/String;* 
+
+offerdata.entidades.Oferta2
+getTopic()Ê
+„
+Å
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java! !(q
+%1java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*CA
+?El estudiante sera notificado cuando nuevos libros de %s arrive*
+
+%0java.lang.String"û
+Å
+w/home/marco/Downloads/IngSoftware/practica01/practica-calificada-1-marckx0/src/main/java/data/entidades/Estudiante.java! !(r
+
+%1java.lang.String:
+offerdata.entidades.OfertaB
+data.entidades.Estudiante
